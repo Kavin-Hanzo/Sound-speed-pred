@@ -1,0 +1,27 @@
+# Core scientific stack
+numpy
+pandas
+scipy
+xarray
+netCDF4
+
+# Machine Learning
+scikit-learn
+
+# Oceanographic conversions (TEOS-10 standard)
+gsw
+
+# Visualization (useful for error plots, depth-MAE curves, etc.)
+matplotlib
+seaborn
+
+# Big data handling (optional, for 27M+ rows)
+dask[dataframe]
+
+# Utilities
+joblib==1.4.2   # for saving models/scalers
+tqdm==4.66.5    # for progress bars
+
+# File formats
+pyarrow   # Parquet/Arrow
+fastparquet
