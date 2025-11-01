@@ -12,6 +12,6 @@ Estimation of Under water Sound speed profiles.
 
 ## Data Creation Pipeline
 
-python Aggregator.py --zip_folder "path_to_zip_folder" --processed_folder "processed_data" --aggregated_csv "aggregated.csv" --final_csv "Train_data.csv"
+` python Aggregator.py --zip_folder "path_to_zip_folder" --processed_folder "processed_data" --aggregated_csv "aggregated.csv" --final_csv "Train_data.csv" `
 
 
